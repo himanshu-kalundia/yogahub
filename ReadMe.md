@@ -1,4 +1,4 @@
-# Yogahub2 Class Admission Form Web Application
+# Yogahub Class Admission Form Web Application
 
 ##link to the app [https://yogahub2.netlify.app/](https://yogahub2.netlify.app/)
 
